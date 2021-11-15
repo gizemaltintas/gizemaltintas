@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm Gizem</h2>
-<p align="left">I am a senior year Computer Engineering student at Middle East Technical University (METU) and currently working as a part time full-stack developer at TUBITAK BILGEM Software Technologies Research Institute (YTE).</p>
+<p align="left">I am a senior year Computer Engineering student at Middle East Technical University (METU) and currently working as a part time full-stack developer.</p>
 
 ### Tech Stack
 
