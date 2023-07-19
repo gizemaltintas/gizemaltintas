@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm Gizem</h2>
-<p align="left">I am a senior year Computer Engineering student at Middle East Technical University (METU) and currently working as a part time full-stack developer.</p>
+<p align="left">I am a Master's student in Informatics at TUM. Focused on web technologies and also geometry processing.</p>
 
 ### Tech Stack
 
@@ -14,4 +14,4 @@
 ### Connect with Me
 
 <a href="https://linkedin.com/in/nurgizemaltintas"><img src="https://img.shields.io/badge/-Gizem%20Altintas-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:gizemaltintas05@gmail.com"><img src="https://img.shields.io/badge/-gizemaltintas05@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:galtintas05@gmail.com"><img src="https://img.shields.io/badge/-galtintas05@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
